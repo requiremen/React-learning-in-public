@@ -2,7 +2,7 @@ import axios from "axios";
 import { useEffect, useState } from "react";
 function App(){
   const [data,setdata]= useState([]);
-  // here the useeffect is used to mount the data and stop the required re render 
+  // here the useeffect is used to mount the data and stop the required re render
   // until and unless i dont give any other depenedency array
 
   useEffect(()=>{
