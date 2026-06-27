@@ -38,3 +38,6 @@ function Todo(props){
   )
 }
 export default App;
+// okay this is something we make a functionality in our todo rendering but yaar the thing is we are leading to lot of code and gibbrish things on our screen and assume if a frontend engineer joins in the team and ends up getting confused with the codes and don’t know where to edit the design we have to refactor our code and make a different file in the files of our projects which says custom hooks 
+
+// and for consideration we have custom hooks which means that we write a function such as useAkshat, useHook— these all will be called as function and contains other hooks inside it which shows the uniqueness of the hook.
